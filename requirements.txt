@@ -1,0 +1,6 @@
+streamlit
+numpy
+math
+numpy_financial
+pandas
+copy
